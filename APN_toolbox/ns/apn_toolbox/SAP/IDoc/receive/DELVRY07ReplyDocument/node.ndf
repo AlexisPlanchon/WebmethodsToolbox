@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <record name="record" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_nsName">apn_toolbox.SAP.IDoc.receive:DELVRY07ReplyDocument</value>
+    <value name="node_pkg">APN_toolbox</value>
+    <record name="node_hints" javaclass="com.wm.util.Values">
+      <value name="NotificationDocument"></value>
+      <null name="CURRENT_NODE"/>
+    </record>
+    <value name="is_public">false</value>
+    <value name="field_name">DELVRY07ReplyDocument</value>
+    <value name="field_type">record</value>
+    <value name="field_dim">0</value>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+    <array name="rec_fields" type="record" depth="1">
+    </array>
+    <value name="modifiable">true</value>
+  </record>
+</Values>
